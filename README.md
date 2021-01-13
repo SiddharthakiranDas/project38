@@ -1,1 +1,1 @@
-# project38
+# pro-38-infinite-game
